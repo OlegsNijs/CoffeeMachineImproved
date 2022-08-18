@@ -1,0 +1,12 @@
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\bin\Debug\net6.0\CoffeeMachineLibrary.deps.json
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\bin\Debug\net6.0\CoffeeMachineLibrary.dll
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\bin\Debug\net6.0\CoffeeMachineLibrary.pdb
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\CoffeeMachineLibrary.csproj.AssemblyReference.cache
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\CoffeeMachineLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\CoffeeMachineLibrary.AssemblyInfoInputs.cache
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\CoffeeMachineLibrary.AssemblyInfo.cs
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\CoffeeMachineLibrary.csproj.CoreCompileInputs.cache
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\CoffeeMachineLibrary.dll
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\refint\CoffeeMachineLibrary.dll
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\CoffeeMachineLibrary.pdb
+C:\Users\olegs.baranovs\Documents\visualstudio22\CoffeeMachineLibrary\obj\Debug\net6.0\ref\CoffeeMachineLibrary.dll
